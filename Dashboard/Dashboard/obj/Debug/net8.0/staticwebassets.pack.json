@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dashboard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dashboard.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\dashboard.css",
+      "PackagePath": "staticwebassets\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\feather.min.js",
+      "PackagePath": "staticwebassets\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\popper.min.js",
+      "PackagePath": "staticwebassets\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Dashboard\\Dashboard\\wwwroot\\signin.css",
+      "PackagePath": "staticwebassets\\signin.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dashboard.props",
+      "PackagePath": "build\\Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dashboard.props",
+      "PackagePath": "buildMultiTargeting\\Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dashboard.props",
+      "PackagePath": "buildTransitive\\Dashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
